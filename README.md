@@ -221,3 +221,11 @@ Remaining work:
 - Week 4: command-injection attack + honeypot
 - Week 5: sensor-spoofing scenario + anomaly rule + lateral-movement correlation
 - Week 6: response action, polish, demo rehearsal, buffer
+
+## HOW TO PULL :
+
+```-git --version
+-cd C:\Users\<name>\Documents 
+-git clone https://github.com/feress-klaii/CyberRange
+-cd CyberRange```
+
